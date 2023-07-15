@@ -29,7 +29,7 @@ The roadmap outlines the key topics, skills, and resources to focus on during th
 - [JS by Harry](https://www.youtube.com/watch?v=ER9SspLe4Hg&list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR)
 - [JS by Apna College](https://www.youtube.com/watch?v=B7wHpNUUT4Y&list=PL0rxPh2ovQP_JTqkFUtaZzBXzppx-VSWn) 
   
-5. **Front-End Frameworks**: Familiarize yourself with popular any of front-end frameworks.
+5. **Front-End Frameworks**: Familiarize yourself with any of the popular front-end frameworks.
 - [React](https://reactjs.org/)
   - [React Official Tutorial](https://reactjs.org/tutorial)
   - [React by Coding Addict](https://www.youtube.com/watch?v=GcrNHMcL-WM&list=PLnHJACx3NwAep5koWkniVHw8PK7dWCO21)
@@ -51,7 +51,7 @@ The roadmap outlines the key topics, skills, and resources to focus on during th
 - [Git- Fundamentals](https://www.youtube.com/watch?v=tRZGeaHPoaw&pp=ygUDR2l0)
   
 
-8. **Continuous Learning**: Stay updated with the latest trends and technologies. ### Continuous Learning
+8. **Continuous Learning**: Stay updated with the latest trends and technologies.
 - [Frontend Masters](https://frontendmasters.com/)
 - [CSS-Tricks](https://css-tricks.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
